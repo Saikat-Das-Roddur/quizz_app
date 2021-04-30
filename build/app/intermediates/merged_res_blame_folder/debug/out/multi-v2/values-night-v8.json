@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/saikat/AndroidStudioProjects/quizz_app/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/home/saikat/Downloads/Flutter Self Project/quizz_app/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/home/saikat/AndroidStudioProjects/quizz_app/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/home/saikat/Downloads/Flutter Self Project/quizz_app/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

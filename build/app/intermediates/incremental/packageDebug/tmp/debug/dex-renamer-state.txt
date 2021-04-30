@@ -1,4 +1,4 @@
-#Mon Apr 12 23:06:30 BDT 2021
-base.0=/home/saikat/AndroidStudioProjects/quizz_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Fri Apr 30 22:55:15 BDT 2021
+base.0=/home/saikat/Downloads/Flutter Self Project/quizz_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
